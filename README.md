@@ -2,6 +2,8 @@
 ### PixelPlace Timelapser v1.0.0
 This script was made with no purpose, it can download canvases from [pixelplace.io](https://pixelplace.io).
 
+![videothumb](a-test.gif)
+
 - ## Requeriments
 - image-downloader *-* **^4.0.2**
 - input *-* **^1.0.1**
